@@ -1,5 +1,6 @@
 # Task 1: Video Walkthrough
 
+![ezgif com-gif-maker (1)]https://i.imgur.com/L5mbHa0.gif)
 
 ## Task 2:
 
@@ -33,3 +34,6 @@
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
   If I had more hours to work on this project, I would have loved to finish up the all the optional features. I would implement the timer because I think that would make the game more interesting and add more level of difficulties to the users to play the game. I could add a plus and minus button so that the users could change the timer.
 I would also try to make the UI more visually appealing. With more time, I would have also added a button that users could toggle to change the theme of the game. For example, make the UI change from normal mode to dark mode or vice versa.
+
+zoom recording 
+https://missioncollege-edu.zoom.us/rec/share/B52r1fwr45Nkwsuz_Z78_vkCM1jMyYuBXNqRsng9ZWT-48aTfMYpMpZCeg8iv7UN.90FV1LMxHFVTcUrc
