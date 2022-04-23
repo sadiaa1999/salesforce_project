@@ -45,6 +45,7 @@ https://i.imgur.com/L5mbHa0.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random#getting_a_random_integer_between_two_values
 https://www.rapidtables.com/web/css/css-color.html#red
 https://www.educative.io/edpresso/mathceil-mathfloor-and-mathround-in-javascript
