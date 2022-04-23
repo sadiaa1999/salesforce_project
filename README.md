@@ -57,9 +57,11 @@ I had a variable to keep track of the tries. First, I checked if the first guess
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 Through this project, I got exposure to working with Javascript and got to learn how different components in Javascript interact with each other in the front end. This experience made me more interested in web development. Now that, I have learned some basics of Javascript, I would love to probably pick a more robust Javascript framework like React.js to build faster, scalable and simple front end apps. Even though I enjoy building UI components in the front-end, I would love to learn more about full stack development for example how backend and front end communicate with each other, connect to a database, authenticate users, etc. In simple words, I am more eager to learn about full stack development.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had more hours to work on this project, I would have loved to finish up all the optional features. I would implement the timer because I think that would make the game more interesting and add more difficulty for the users to play the game. I could add a plus and minus button so that the users could change the timer.
 I would also try to make the UI more visually appealing. With more time, I would have also added a button that users could toggle to change the theme of the game. For example, make the UI change from normal mode to dark mode or vice versa.
 
